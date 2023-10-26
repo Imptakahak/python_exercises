@@ -1,3 +1,5 @@
+## github 練習用リポジトリ
+
 # python exercises
 
 Pythonの基礎的な処理を学ぶためのリポジトリです。
